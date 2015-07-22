@@ -7,3 +7,5 @@ This is a modified file.
 And another change.
 
 This is a start for chapter two.
+
+A comment of chapter one.
