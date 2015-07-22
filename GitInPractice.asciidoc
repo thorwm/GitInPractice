@@ -5,3 +5,5 @@ Then this is the second change.
 This is a modified file.
 
 And another change.
+
+This is a start for chapter two.
